@@ -10,7 +10,7 @@ A Render Engine Based on Dx12 Windows plaform。
 - Can save and load scene
 
 ## How To Use?
-Just click default_build,and wait vsproj's generation.
+Just click build_default.bat,and wait vsproj's generation.
 
 ## Picture
 ![image](AssetsForRead/Pic1.png)
