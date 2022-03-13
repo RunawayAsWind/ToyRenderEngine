@@ -1,0 +1,5 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+F:/GitProject/ToyRenderEngine/src/Ui/GenCode/Moc/moc_QtGuiZero00.cpp
+F:/GitProject/ToyRenderEngine/src/Ui/Include/QtGuiZero00.h

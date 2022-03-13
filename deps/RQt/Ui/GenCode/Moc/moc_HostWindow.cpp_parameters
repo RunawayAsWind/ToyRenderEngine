@@ -1,0 +1,5 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+F:/GitProject/ToyRenderEngine/deps/RQt/Ui/GenCode/Moc/moc_HostWindow.cpp
+F:/GitProject/ToyRenderEngine/deps/RQt/Ui/Include/HostWindow.h
