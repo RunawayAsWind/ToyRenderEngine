@@ -5,7 +5,7 @@ A Render Engine Based on Dx12 Windows plaform。
 
 ## Function
 - Base on scene tree to control scene,can delete and import new model.(Just support fbx now)
-- Can instance new material and set texture.
+- Can instance new material and set texture,such as add new skybox's texture.
 - Release PBR,Skybox,simple SSAO.
 - Can split and play animation frame.
 - Can save and load scene.
