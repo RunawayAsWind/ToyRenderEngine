@@ -5,7 +5,7 @@ A Render Engine Based on Dx12 Windows plaform。
 
 ## Function
 - Base on scene tree to control scene
-- Release PBR,Skybox
+- Release PBR,Skybox,simple ssao
 - Can split and play animation frame
 - Can save and load scene
 
