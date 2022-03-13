@@ -4,7 +4,7 @@ A Render Engine Based on Dx12 Windows plaform。
 - **Use Qt5 and imgui,need install qt-opensource-windows-x86-5.12.2.**
 
 ## Function
-- Base on scene tree to control scene,can delete and import new model(just support fbx now).
+- Base on scene tree to control scene,can delete and import new model.(Just support fbx now)
 - Can instance new material and set texture.
 - Release PBR,Skybox,simple SSAO.
 - Can split and play animation frame.
